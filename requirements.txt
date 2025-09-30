@@ -6,3 +6,5 @@ seaborn
 numpy
 scipy
 ucimlrepo
+smartnoise-synth
+statsmodels
